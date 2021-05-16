@@ -10,3 +10,12 @@ h3 {
 .text {
     background-color: rgb(190, 190, 190);
 }
+.footerinfo {
+    color: white;
+}
+footer {
+    background-color: black;
+}
+.info {
+    text-align: center;
+}
