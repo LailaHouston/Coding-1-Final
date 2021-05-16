@@ -1,21 +1,33 @@
 h1 {
     font-family: Arial;
+    color: black;
+    font-size: 90%;
 }
 img {
-    width: 50%;
+    width: 50%; 
+    height: auto;
+    text-align: center;
 }
 h3 {
     font-family: Helvetica;
+    color: black;
+    text-align: center;
 }
 .text {
     background-color: rgb(190, 190, 190);
+    height: 100%;
+  width: 100%;
 }
 .footerinfo {
     color: white;
+    text-align: center;
+    font-family: Helvetica;
 }
 footer {
     background-color: black;
 }
 .info {
     text-align: center;
+    font-size: medium;
+    color: black;
 }
